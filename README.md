@@ -98,11 +98,9 @@ Created 4/20/2023
 ## Credits
 Programming for Data Science with Python- Udacity NanoDegree Program
 https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
-
 PostgreSQL.org
-https://www.postgresql.org/download/windows/ and follow the steps mentioned here
-https://www.postgresql.org/download/macosx/ and follow the steps mentioned here
-
+https://www.postgresql.org/download/windows/
+https://www.postgresql.org/download/macosx/
 PostgreSQLtutorial.com
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/
