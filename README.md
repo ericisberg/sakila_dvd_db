@@ -96,11 +96,11 @@ SQl_Project_Queries.txt
 ## Date created
 Created 4/20/2023
 ## Credits
-Programming for Data Science with Python- Udacity NanoDegree Program
-https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
-PostgreSQL.org
-https://www.postgresql.org/download/windows/
-https://www.postgresql.org/download/macosx/
-PostgreSQLtutorial.com
-https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+Programming for Data Science with Python- Udacity NanoDegree Program<br>
+https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104<br>
+PostgreSQL.org<br>
+https://www.postgresql.org/download/windows/<br>
+https://www.postgresql.org/download/macosx/<br>
+PostgreSQLtutorial.com<br>
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/<br>
 https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/
