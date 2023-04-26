@@ -7,10 +7,10 @@ This project involves querying the Sakila DVD Rental database, which contains in
 First, you will need to install PostgreSQL on your local machine. Select the following three components during installation - PostgreSQL server, pgAdmin, and command-line tools. pgAdmin is a GUI tool for managing the database. Download the installer from the link below, and install with the admin privileges:
 
 Installing PostgreSQL for Windows:
-https://www.postgresql.org/download/windows/ and follow the steps mentioned here
+https://www.postgresql.org/download/windows/
 
 Installing PostgreSQL for Mac OS:
-https://www.postgresql.org/download/macosx/ and follow the steps mentioned here
+https://www.postgresql.org/download/macosx/
 
 Using the following commands in your terminal you can verify the successful installation of PostgreSQL:
 
@@ -40,7 +40,8 @@ Launch pgAdmin tool, a graphical tool for managing and developing PostgreSQL dat
 |		| Username | postgres |
 |		| Password | As selected during installation |
 ### Step 4. Loading database
-The next step is to load the DVD Rental database into your PostgreSQL server on your machine. Follow the instructions on the page - https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/ 
+The next step is to load the DVD Rental database into your PostgreSQL server on your machine. Follow the instructions on the page:<br>
+https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/ 
 
 Load the DVD Rental database using the pgAdmin:
 - Right click on the Databases and select the Create → Database... menu option
@@ -89,10 +90,10 @@ For queries used to answer the above quetions refer to the SQL_Project_Queries.t
 Visualizations were created by extracting a CSV file from each query and creating a simple chart in Power BI.
 The visualizations can be found in the SQL_Project_Presentation.pdf file.
 ## Files used
-dvdrental.zip
-printable-postgresql-sample-database-diagram.pdf
-SQL_Project_Presentation.pdf
-SQl_Project_Queries.txt
+dvdrental.zip<br>
+printable-postgresql-sample-database-diagram.pdf<br>
+SQL_Project_Presentation.pdf<br>
+SQl_Project_Queries.txt<br>
 ## Date created
 Created 4/20/2023
 ## Credits
