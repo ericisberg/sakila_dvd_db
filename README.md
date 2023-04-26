@@ -60,7 +60,7 @@ Open the Query tool, write your queries in the Query editor, and run them to see
 ## SQL Query Breakdown
 For queries used to answer the above quetions refer to the SQL_Project_Queries.txt file.
 ### 1.	Which customers have rented the most movies in each country, and how many movies have they each rented?
-	-	The query uses a CTE to create a temporary table customer_country_rentals that lists the number of rentals made by each customer in each country.
+	-	The query uses a CTE to create a temporary table customer_country_rentals that lists the number of rentals made by each customer in each country.  
 	-	Then the customer table is joined with the CTE using customer_id as the join key.
 	-	Next, a subquery is used in the WHERE clause to filter the results and only show the customer(s) with the most rentals in each country.
 	-	Finally, the results are by country and number of rentals in descending order.
